@@ -18,6 +18,8 @@ This Project is done by using React Framework. It is fully functional, responsiv
 
 To run this Project, clone this git into your IDE (Ex: VSCODE) and start running it using command: npm run
 
+##### Hosted in Netlify Website: https://zesty-seahorse-9274b9.netlify.app/
+
 #### Screenshots of the Project:
 ##### DashBoard:
 ![image](https://github.com/Saga-Akhilesh/ENTNT---ERP---Assessment/assets/98794660/61b9ade4-8fcb-4cd9-82b7-7945a757b616)
@@ -35,4 +37,3 @@ Calender Functionality: (If there is an history of an order on any specific date
 
 ![image](https://github.com/Saga-Akhilesh/ENTNT---ERP---Assessment/assets/98794660/a39623d5-d2d0-465e-b72f-df90e6dd189e)
 
-##### Deployed in Netlify Website: https://zesty-seahorse-9274b9.netlify.app/
