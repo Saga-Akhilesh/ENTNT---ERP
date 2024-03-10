@@ -18,7 +18,7 @@ This Project is done by using React Framework. It is fully functional, responsiv
 
 To run this Project, clone this git into your IDE (Ex: VSCODE) and start running it using command: npm run
 
-##### Hosted in Netlify Website: https://zesty-seahorse-9274b9.netlify.app/
+### Hosted in Netlify Website: https://zesty-seahorse-9274b9.netlify.app/
 
 #### Screenshots of the Project:
 ##### DashBoard:
