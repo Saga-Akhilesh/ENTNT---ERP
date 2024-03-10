@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# ENTNT 
+### Technical Assignment: Simplified ERP System with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Project Overview
+The goal of this project is to create a simplified interface for an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. The system will consist of the following pages:
 
-## Available Scripts
+● Dashboard - Provides an overview of the system's features.
 
-In the project directory, you can run:
+● Products Management - Allows for the management of product listings.
 
-### `npm start`
+● Orders Management - Facilitates viewing and handling orders.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+● Orders Calendar View - A calendar interface displaying orders based on their expected
+delivery dates.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Technology Stack 
+This Project is done by using React Framework. It is fully functional, responsive and user friendly.
 
-### `npm test`
+To run this Project, clone this git into your IDE (Ex: VSCODE) and start running it using command: npm run
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Screenshots of the Project:
+##### DashBoard:
+![image](https://github.com/Saga-Akhilesh/ENTNT---ERP---Assessment/assets/98794660/61b9ade4-8fcb-4cd9-82b7-7945a757b616)
 
-### `npm run build`
+##### Products page:
+![image](https://github.com/Saga-Akhilesh/ENTNT---ERP---Assessment/assets/98794660/fc8d8dac-f965-4d51-abe7-6353c363ad75)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##### Orders Page:
+![image](https://github.com/Saga-Akhilesh/ENTNT---ERP---Assessment/assets/98794660/b2691fd7-4c09-4dc7-893e-c8d0ee5235f9)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##### Calender Page:
+![image](https://github.com/Saga-Akhilesh/ENTNT---ERP---Assessment/assets/98794660/8e5e6409-5df4-4269-88e2-046ca4b7b31a)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Calender Functionality: (If there is an history of an order on any specific date, it will be shown in like this if that particular date is clicked.)
 
-### `npm run eject`
+![image](https://github.com/Saga-Akhilesh/ENTNT---ERP---Assessment/assets/98794660/a39623d5-d2d0-465e-b72f-df90e6dd189e)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+##### Deployed in Netlify Website: https://zesty-seahorse-9274b9.netlify.app/
