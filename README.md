@@ -13,12 +13,28 @@ The goal of this project is to create a simplified interface for an ERP (Enterpr
 ● Orders Calendar View - A calendar interface displaying orders based on their expected
 delivery dates.
 
-#### Technology Stack 
+#### Technology Stack: 
 This Project is done by using React Framework. It is fully functional, responsive and user friendly.
 
-To run this Project, clone this git into your IDE (Ex: VSCODE) and start running it using command: npm run
+#### Installation:
+
+To get this project up and running on your local machine, follow these steps:
+
+![image](https://github.com/Saga-Akhilesh/ENTNT---ERP/assets/98794660/499cfcfc-734f-4cd7-ad67-05e7bdba023e)
+
+#### Usage:
+
+Once the installation is complete, you can start the development server by running:
+
+![image](https://github.com/Saga-Akhilesh/ENTNT---ERP/assets/98794660/fce4918d-da8b-458f-a9f8-d85644732c32)
+
+This will launch the project in your default web browser. You can view the application and make changes as needed.
+
+
 
 #### Hosted in Netlify Website: https://zesty-seahorse-9274b9.netlify.app/
+
+
 
 #### Screenshots of the Project:
 ##### DashBoard:
