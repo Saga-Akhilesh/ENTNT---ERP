@@ -22,18 +22,21 @@ To run this Project, clone this git into your IDE (Ex: VSCODE) and start running
 
 #### Screenshots of the Project:
 ##### DashBoard:
-![image](https://github.com/Saga-Akhilesh/ENTNT---ERP---Assessment/assets/98794660/61b9ade4-8fcb-4cd9-82b7-7945a757b616)
+![image](https://github.com/Saga-Akhilesh/ENTNT---ERP/assets/98794660/9b5da67f-e997-4034-a03f-13a93b6a1c22)
 
 ##### Products page:
-![image](https://github.com/Saga-Akhilesh/ENTNT---ERP---Assessment/assets/98794660/fc8d8dac-f965-4d51-abe7-6353c363ad75)
+![image](https://github.com/Saga-Akhilesh/ENTNT---ERP/assets/98794660/114f5592-1928-4179-86d8-ffef518fae97)
 
 ##### Orders Page:
-![image](https://github.com/Saga-Akhilesh/ENTNT---ERP---Assessment/assets/98794660/b2691fd7-4c09-4dc7-893e-c8d0ee5235f9)
+![image](https://github.com/Saga-Akhilesh/ENTNT---ERP/assets/98794660/b51f514c-61ef-44ba-9035-27e18bbbfa47)
+
 
 ##### Calender Page:
-![image](https://github.com/Saga-Akhilesh/ENTNT---ERP---Assessment/assets/98794660/8e5e6409-5df4-4269-88e2-046ca4b7b31a)
+![image](https://github.com/Saga-Akhilesh/ENTNT---ERP/assets/98794660/25cac3ff-6ff4-4954-b07d-2c6eb89df578)
+
 
 Calender Functionality: (If there is an history of an order on any specific date, it will be shown in like this if that particular date is clicked.)
 
-![image](https://github.com/Saga-Akhilesh/ENTNT---ERP---Assessment/assets/98794660/a39623d5-d2d0-465e-b72f-df90e6dd189e)
+![image](https://github.com/Saga-Akhilesh/ENTNT---ERP/assets/98794660/1f304127-0256-4870-a7ac-ad5e4a4a0ef8)
+
 
