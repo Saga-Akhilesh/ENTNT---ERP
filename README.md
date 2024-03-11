@@ -19,14 +19,20 @@ This Project is done by using React Framework. It is fully functional, responsiv
 #### Installation:
 
 To get this project up and running on your local machine, follow these steps:
+1. Clone the repository to your local machine using:
+   ### `git clone https://github.com/Saga-Akhilesh/ENTNT---ERP.git`
 
-![image](https://github.com/Saga-Akhilesh/ENTNT---ERP/assets/98794660/499cfcfc-734f-4cd7-ad67-05e7bdba023e)
+2. Navigate into the project directory:
+   ### `cd project`
+
+3. Install the necessary dependencies:
+   ### `npm install`
 
 #### Usage:
 
 Once the installation is complete, you can start the development server by running:
 
-![image](https://github.com/Saga-Akhilesh/ENTNT---ERP/assets/98794660/fce4918d-da8b-458f-a9f8-d85644732c32)
+  ### `npm start`
 
 This will launch the project in your default web browser. You can view the application and make changes as needed.
 
